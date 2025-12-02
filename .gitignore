@@ -11,12 +11,10 @@ backend/.env
 backend/.env.local
 backend/.env.*.local
 
-frontend/node_modules/
-frontend/.env
-frontend/.env.local
-frontend/.env.*.local
-frontend/dist/
-frontend/build/
+frontend_vite/node_modules/
+frontend_vite/.env
+frontend_vite/.env.local
+
 
 logs/
 *.log
